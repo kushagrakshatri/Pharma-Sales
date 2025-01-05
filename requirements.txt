@@ -1,0 +1,6 @@
+airflow
+pandas
+scikit-learn
+google-cloud-storage
+psycopg2
+sqlalchemy
